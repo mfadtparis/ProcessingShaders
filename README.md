@@ -1,4 +1,4 @@
 ProcessingShaders
 =================
 
-Processing Shader workshop with Jerome Saint-Clair
+Processing Shaders workshop with Jerome Saint-Clair
